@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Graphic Era Hill University
+    </title>
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+    <div class="header">
+    <div class="container">
+    <b>WELCOME</b>
+    <marquee>
+        TRANSFORMING DREAMS INTO REALITY !!!
+
+    </marquee> 
+    </div>
+    </div>>
+    <div class="container">
+    <img src="images/logo.jpg" class ="logo">
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">About us</a>
+        <a href="#">Events</a>
+        <a href="#">Gallery</a>
+        <a href="#">Notice Board</a>
+        <a href="#">Blogs</a>
+        <a href="#">Contact us</a>
+    </nav>
+</div>
+<div class="slider">
+    <img src="images/slider.jpg">
+
+</div>
+<div class="main-section" style="background-color:#f0f3fa">
+<div class="container">
+<div class="event" >
+    <H2 class="heading">Campus News</H2>
+    <div>
+        <marquee direction="up"scrollamount="7" style="height:340px">
+            <ul>
+            
+                <li><i>1-jan-2024 :</i>News section 1 </li>
+                <li><i>3-jan-2024 :</i>News section 2 </li>
+                <li><i>4-jan-2024 :</i>News section 3 </li>
+                <li><i>10-jan-2024 :</i>News section 4 </li>
+                
+                
+            </ul>
+        </marquee>
+    </div>
+</div>   
+<div class="event" >
+    <H2 class="heading">Events</H2>
+    <div>
+        <marquee direction="up"scrollamount="7" style="height:340px">
+            <ul>
+                <li><span class="event-date">29-jan-2024</span>This is event 1</li>
+                <li><span class="event-date">22-jan-2024</span>This is event 2</li>
+                <li><span class="event-date">21-jan-2024</span>This is event 3</li>
+                <li><span class="event-date">28-jan-2024</span>This is event 4</li>
+            </ul>
+        </marquee>
+    </div>
+</div>   
+<div class="event" >
+    <H2 class="heading">Notice board</H2>
+    <div>
+        <marquee direction="up"scrollamount="7" style="height:340px">
+            <ul> <li><span class="event-date"></span>This is notice 1</li>
+                <li><span class="event-date"></span>This is notice 2</li>
+                <li><span class="event-date"></span>This is notice 3</li>
+                <li><span class="event-date"></span>This is notice 4</li>
+
+            </ul>
+        </marquee>
+    </div>
+</div>   
+</div>
+</div>
+<div class="main-section" >
+    <div class="container about-us">
+      <div>
+        <H2 class="heading">Our Campus</H2>
+        <h4>Dehradun Campus</h4>
+        <p>GEHU Dehradun campus, amidst the Shivalik Hills and Rajaji National Park, provides an ideal setting for academic
+             excellence, with modern facilities including computer centers, classrooms, accommodation, medical services,
+              and a radio station. It has received recognition at national and international events.</p>
+            <img src="images/aboutus.jpg">
+      </div>
+    </div>
+</div>    
+<div class="main-section" award="background-color:#f0f3fa">
+    <div class="container">
+    <div class="event" >
+        <H2 class="heading">College info</H2>
+        <div>
+            <h3>GEHU</h3>
+            <p><b></b>Chancellor: Dr.kamal ghanshala</p> 
+            <p><b></b>vice Chancellor:Dr.Sanjay Jasola</p> 
+            <p><b></b>address: Dehradun</p> 
+            <p><b></b>Contact no: +1234 134 2345</p> 
+            <p><b></b>e-mail: gehu@gmail.com</p> 
+        </div>
+    </div>
+    </div>
+    <div class="event" >
+        <H2 class="heading">Achievements</H2>
+        <div>
+        <img src="images/naac.jpg">
+        </div>
+    </div>
+    
+</div>          
+<div class ="main-section">
+    <div class ="container">
+        <h2 class ="heading">Parents review about College</h2>
+        <div class ="testimonial">
+            <div class ="testimonial-text">
+                "We are impressed with the high academic standards at this college.
+                 Our child has had challenging courses with dedicated professors who provide excellent support."
+            </div>
+            <div class ="testimonial-details">
+                <div class ="testimonial-img">
+                    <img src="images/testimonial.jpg">
+                </div>
+                <div class="testimonial-name">
+                    <h5>Peter</h5>
+                    <p>software developer</p>
+                      </div>
+                </div>
+                </div>
+            </div>
+            <div class ="testimonial">
+                <div class ="testimonial-text">
+                     "The professors are knowledgeable and approachable. We appreciate their commitment to student success."
+                </div>
+                <div class ="testimonial-details">
+                    <div class ="testimonial-img">
+                        <img src="images/testimonial2.jpg">
+                    </div>
+                    <div class="testimonial-name">
+                        <h5>Mark</h5>
+                        <p>Businessman</p>
+                          </div>
+                    </div>
+                    </div>
+                </div>
+             
+</div> 
+<div class="main-section">
+    <div class="container">
+        <h2 class ="heading">Placement</h2>
+        <marquee class="placement" direction="left" scrollamount="10">
+            <img src="images/icon-tw.png">
+            <img src="images/icon-li.png">
+            <img src="images/icon-in.png">
+            <img src="">
+        </marquee>
+    </div>
+</div>  
+<div class="footer">
+    <div class="container">
+        <div class="footer-sect">
+            <img class="footer-logo" src="images/logo.jpg">
+        </div>
+        <div class="footer-sect">
+            <a href="#">Home</a>
+            <a href="#">About us</a>
+            <a href="#">Tutorial</a>
+            <a href="#">Event</a>
+            <a href="#">Gallery</a>
+            <a href="#">courses</a>
+            <a href="#">Contact us</a>
+        </div>
+        <div class="footer-sect">
+            <img src="images/last.png">
+            <img src="images/last2.jpg">
+            <img src="images/last3.png">
+        </div>
+    </div>
+</div> 
+<script src="script.js"></script>
+
+<script src="https://cdn.botpress.cloud/webchat/v1/inject.js"></script>
+<script src="https://mediafiles.botpress.cloud/33997b70-1e08-4f5f-b2f2-24ab13ee534d/webchat/config.js" defer></script>
+</body>
+</html>
